@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tiffany, you can call me Tip!
+- 👋 Hi, I’m Tiffany, but you can call me Tip!
 - 👀 In the world of tech I’m interested in: SQL, Python & Data Analysis
 - 🌱 I’m currently learning ...SQL followed by Python as well as Tableau & PowerBI 
 - 💞️ Once I become more fluent and confident in my skills I'll be looking to collaborate on different projects utilizing SQL
