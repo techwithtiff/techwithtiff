@@ -16,9 +16,9 @@ Hey, I’m Tiffany! 🎉👋
 Office Administration | Client Management | Project Coordination | Data Diva | Future Tech Pro
 
 About Me:
-Welcome to my little corner of the internet! 🌍 I’m Tiffany— wife, sahm, part office expert, part problem-solver, and now diving headfirst into the tech world! With a background in client management, project coordination, and a passion for all things in data and office administration, I’m excited to learn how to take all that and mix it up with tech magic. 💻✨
+Welcome to my little corner of the internet! 🌍 I’m Tiffany— wife, sahm, part office expert, part problem-solver, and now diving headfirst into the tech world! With a background in client management, project coordination, and a passion for all things data, I’m excited to learn how to take all that and mix it up with tech magic. 💻✨
 
-I’m on a mission to master project management and SQL (yes, I’m that excited about data 📊), and this space is where I’ll be documenting my journey, sharing my projects, and celebrating the wins (big or small). 
+I’m on a mission to master project management, SQL and Python, and this space is where I’ll be documenting my journey, sharing my projects, and celebrating the wins (big or small). 
 
 What I’m Learning
 🔹 SQL & Python Adventures: Learning how to wrangle data like a pro!
